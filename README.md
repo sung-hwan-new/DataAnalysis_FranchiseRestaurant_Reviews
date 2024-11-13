@@ -18,3 +18,4 @@
 
 ### 세부 내용
 [<img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />](https://velog.io/@sung_hwan_new/hongkong)
+[<img src="https://img.shields.io/badge/Adobe%20PDF-FF0000?style=for-the-badge&logo=adobe&logoColor=white" />](https://github.com/sung-hwan-new/DataAnalysis_FranchiseRestaurant_Reviews/blob/main/PDF_FranchiseRestaurant_Reviews.pdf)
